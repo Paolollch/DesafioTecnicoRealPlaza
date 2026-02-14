@@ -9,7 +9,6 @@ Cómo probar:
 Ejemplo de uso:
 
 1. Ejecutar Caso1.exe.
-2. Seleccionar la opción 1.
-3. Ingresar números separados por comas, por ejemplo: 2,1,4,5.
+2. Ingresar números separados por comas, por ejemplo: 2,1,4,5.
 
 El programa mostrará las listas de pares e impares ordenadas.
